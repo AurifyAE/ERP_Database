@@ -1,0 +1,6 @@
+{
+    "watch": ["."],
+    "ext": "js",
+    "ignore": ["database_manager.log"],
+    "exec": "node index.js"
+  }
